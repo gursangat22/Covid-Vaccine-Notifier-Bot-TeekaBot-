@@ -1,0 +1,7 @@
+https://api.telegram.org/bot5521409024:AAGtt1z3ZvG-xkHlzFNFQva4MSp0d4j0chU/getUpdates
+
+
+chat id-622638037
+
+https://api.telegram.org/bot5521409024:AAGtt1z3ZvG-xkHlzFNFQva4MSp0d4j0chU/sendMessage?chat_id=-622638037&&text=hi
+https://api.telegram.org/bot5521409024:AAGtt1z3ZvG-xkHlzFNFQva4MSp0d4j0chU/sendMessage?chat_id=-622638037&&text=bot%20testing%2012

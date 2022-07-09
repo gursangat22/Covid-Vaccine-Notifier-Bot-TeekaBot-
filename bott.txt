@@ -1,0 +1,27 @@
+5521409024:AAGtt1z3ZvG-xkHlzFNFQva4MSp0d4j0chU
+https://api.telegram.org/bot5521409024:AAGtt1z3ZvG-xkHlzFNFQva4MSp0d4j0chU/getUpdates
+
+
+sending msgs directly to us fromchatbot->https://api.telegram.org/bot5521409024:AAGtt1z3ZvG-xkHlzFNFQva4MSp0d4j0chU/sendMessage?chat_id=900442238&&text=test message from python api
+
+user agent-?Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
+GFG
+The following conclusions can be drawn with the help of user-agent header:
+
+The user agent application is Mozilla version 5.0.
+The operating system is NT version 10.0 (and is running on a Windows(64-bit) Machine).
+The engine responsible for displaying content on this device is AppleWebKit version 537.36 (KHTML, an open-source layout engine, is present too).
+The client is Chrome version 77.0.3865.90.
+The client is based on Safari version 537.36.
+
+
+//by district
+https://cdn-api.co-vin.in/api/v2/appointment/sessions/public/findByDistrict?district_id=488&date=05-07-2022  //ludhiana for this date , we can find for any next number of days	
+
+
+# headers={'User-Agent':'Mozilla/5.0(Macintosh;Intel Mac OSX10_10_1)Applewebkit/537.36(KHTML,like Gecko)Chrome/39.0.2171.95 Safari/537.36'}
+# from urllib.robotparser import RequestRate
+# import requests
+# url="https://api.telegram.org/bot5521409024:AAGtt1z3ZvG-xkHlzFNFQva4MSp0d4j0chU/sendMessage?chat_id=900442238&&text="
+# requests.get(url+"test message from bot.py") 
+    
