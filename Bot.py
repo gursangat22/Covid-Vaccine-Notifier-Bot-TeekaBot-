@@ -34,3 +34,4 @@ while(1):
             time.sleep(6)
     time.sleep(900)  #Is pyth on time sleep in seconds?
 # We can use python sleep function to halt the execution of the program for given time in seconds.
+#  ok git also updated
