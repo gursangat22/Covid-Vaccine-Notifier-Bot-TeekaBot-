@@ -1,8 +1,8 @@
 5521409024:AAGtt1z3ZvG-xkHlzFNFQva4MSp0d4j0chU
-https://api.telegram.org/bot5521409024:AAGtt1z3ZvG-xkHlzFNFQva4MSp0d4j0chU/getUpdates
+https://api.telegram.org/bot5521409024:AAGtt1zputjunkcode3ZvG-xkHlzFNFQva4MSp0d4j0chU/getUpdates
 
 
-sending msgs directly to us fromchatbot->https://api.telegram.org/bot5521409024:AAGtt1z3ZvG-xkHlzFNFQva4MSp0d4j0chU/sendMessage?chat_id=900442238&&text=test message from python api
+sending msgs directly to us fromchatbot->https://api.telegram.org/bot5521409024:AAGputjunkcodett1z3ZvG-xkHlzFNFQva4MSp0d4j0chU/sendMessage?chat_id=900442238&&text=test message from python api
 
 user agent-?Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
 GFG
